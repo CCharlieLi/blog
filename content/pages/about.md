@@ -30,10 +30,9 @@ Confident Node.js backend developer with 5-year history collaborating with busin
 ## Education
 
 - 2013-09 - 2016-07 **Master of Science: Computer Science** at University Of Chinsese Academy Of Sciences
-    - 口腔微生物群图分析: 基于R的数据分析研究，将微生物群落绘制成图数据，通过图的特点区分人体的致病和健康状态。
-
+    - Oral microbiota graph analyses
 - 2009-09 - 2013-07 **Bachelor: Software Engineering** at South West Petroleum University
-    - 油管腐蚀评价系统: 基于C++，C#.NET和VB.NET，通过读取输油管道平面壁厚数据，计算腐蚀区域比例并判断腐蚀类型，主要特点：单点扩散广度搜索，邻接区域扩展，数据量大，腐蚀区域图像及腐蚀趋势图绘制。
+    - Oil pipe corrosion detection and evaluation system
 
 ## Community
 
